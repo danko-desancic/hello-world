@@ -1,2 +1,2 @@
 # hello-world
-JAR
+Just Another Repo to try it out
